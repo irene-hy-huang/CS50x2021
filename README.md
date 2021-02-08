@@ -3,7 +3,6 @@
 My solutions to problem sets and labs of [Harvard's CS50x 2021.](https://cs50.harvard.edu/x/2021/)
 
 ## Table of Contents
-
 Week 0: Scratch
 Week 1: C
 Week 2: Arrays
